@@ -1,0 +1,7 @@
+test_001 :
+ input_text : "电池"
+ assert_text_001 : "电池"
+test_002 :
+ input_text : "WLAN"
+ assert_text_001 : "WlAN 设置"
+ assert_text_002 : "WLAN"
